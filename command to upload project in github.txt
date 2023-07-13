@@ -1,0 +1,13 @@
+echo "# PHP-database-connection" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dinesh14ry/PHP-database-connection.git // repository name
+git push -u origin main
+git status
+git add. // means track all file to upload
+git status
+git commit -m "commit name"
+git pull
+git push
